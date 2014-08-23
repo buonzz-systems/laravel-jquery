@@ -1,0 +1,25 @@
+{
+    "name": "buonzz/laravel-jquery",
+    "description": "jQuery Assets and Blade Extensions for Laravel",
+	"keywords": ["jquery", "assets only", "blade extension", "jquery blade", "jquery blade extensions"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Darwin Biler",
+            "email": "buonzz@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "4.2.*"
+    },
+    "autoload": {
+        "classmap": [
+            "src/migrations"
+        ],
+        "psr-0": {
+            "Buonzz\\LaravelJquery\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
