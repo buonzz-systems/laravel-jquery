@@ -29,3 +29,5 @@ Use this Blade template tag to insert the js tag inside the head/body tag
     {{@jquery_js_tag}}
 
 Your template should now have jQuery loaded
+
+-
