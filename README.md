@@ -1,5 +1,7 @@
 Laravel jQuery
-=========================
+==============
+
+[![Build Status](https://travis-ci.org/buonzz-systems/laravel-jquery.svg?branch=master)](https://travis-ci.org/buonzz-systems/laravel-jquery)
 
 This package makes the jQuery Assets and Blade Extensions available for use in your blade templates.
 
@@ -30,4 +32,3 @@ Use this Blade template tag to insert the js tag inside the head/body tag
 
 Your template should now have jQuery loaded
 
--
